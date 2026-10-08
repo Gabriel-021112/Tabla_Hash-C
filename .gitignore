@@ -1,0 +1,21 @@
+# Ejecutables
+
+hashtable
+
+# Archivos objeto
+
+*.o
+
+# Ejecutables genéricos
+
+*.out
+
+# Archivos temporales
+
+*.tmp
+*~
+
+# Archivos de depuración
+
+core
+core.*

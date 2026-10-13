@@ -1,21 +1,17 @@
-# Ejecutables
-
-hashtable
-
-# Archivos objeto
-
+# Ejecutables compilados
+tabla_hash
 *.o
-
-# Ejecutables genéricos
-
 *.out
 
-# Archivos temporales
-
-*.tmp
+# Archivos temporales y de respaldo
 *~
+*.swp
+*.bak
 
-# Archivos de depuración
+# Configuracion de editores
+.vscode/
+.idea/
 
-core
-core.*
+# Archivos del sistema
+.DS_Store
+Thumbs.db
